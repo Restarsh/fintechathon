@@ -1,2 +1,5 @@
 university,city,course,study_level,student_type,academic_year,annual_fee_aud,fee_basis,source_url,retrieved_on
 UNSW Sydney,Sydney,Bachelor of Computer Science / Arts,undergraduate,international,2026,55500,indicative first-year tuition,https://www.unsw.edu.au/study/undergraduate/bachelor-of-computer-science-arts,2026-10-15
+The University of Queensland,Brisbane,Bachelor of Computer Science (Honours),undergraduate,international,2026,58056,indicative annual tuition; 16 units,https://study.uq.edu.au/study-options/programs/bachelor-computer-science-honours-2452?year=2026,2026-10-15
+Australian National University,Canberra,Bachelor of Engineering (Honours) in Software Engineering,undergraduate,international,2026,56120,annual indicative fee; standard full-time load,https://programsandcourses.anu.edu.au/2026/program/AENSE,2026-10-15
+The University of Sydney,Sydney,Engineering and computer science (fee-guide category),undergraduate,international,2026,60600,2026 full-time entry fee guide; category figure,https://www.sydney.edu.au/study/fees-and-loans/international-student-tuition-fees.html,2026-10-15
