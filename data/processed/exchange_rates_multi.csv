@@ -1,0 +1,661 @@
+date,country_or_region,currency,unit,buy_npr,sell_npr,source_url,retrieved_at_utc
+2026-09-16,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,United States,USD,,153.24,153.84,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Euro area,EUR,,176.80,177.49,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,United Kingdom,GBP,,206.55,207.36,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Switzerland,CHF,,187.37,188.10,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Australia,AUD,,109.24,109.66,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Canada,CAD,,110.19,110.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Singapore,SGD,,120.45,120.92,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Japan,JPY,,9.90,9.93,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,China,CNY,,22.83,22.92,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Saudi Arabia,SAR,,40.80,40.96,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Other / verify,QAR,,42.04,42.20,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Thailand,THB,,4.60,4.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,United Arab Emirates,AED,,41.72,41.89,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Malaysia,MYR,,37.49,37.64,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,South Korea,KRW,,11.26,11.31,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Other / verify,SEK,,15.68,15.74,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Other / verify,DKK,,23.65,23.74,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Hong Kong,HKD,,19.54,19.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Other / verify,KWD,,499.15,501.11,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Other / verify,BHD,,406.49,408.08,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-16,Other / verify,OMR,,398.02,399.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,United States,USD,,153.24,153.84,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Euro area,EUR,,176.82,177.52,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,United Kingdom,GBP,,206.38,207.19,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Switzerland,CHF,,187.05,187.78,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Australia,AUD,,109.27,109.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Canada,CAD,,110.02,110.45,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Singapore,SGD,,120.34,120.81,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Japan,JPY,,9.88,9.92,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,China,CNY,,22.85,22.94,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Saudi Arabia,SAR,,40.80,40.96,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Other / verify,QAR,,42.04,42.21,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Thailand,THB,,4.60,4.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,United Arab Emirates,AED,,41.73,41.89,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Malaysia,MYR,,37.49,37.64,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,South Korea,KRW,,11.20,11.24,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Other / verify,SEK,,15.65,15.71,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Other / verify,DKK,,23.65,23.75,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Hong Kong,HKD,,19.53,19.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Other / verify,KWD,,499.15,501.11,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Other / verify,BHD,,406.49,408.08,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-17,Other / verify,OMR,,398.02,399.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,United States,USD,,153.20,153.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Euro area,EUR,,175.79,176.48,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,United Kingdom,GBP,,205.23,206.04,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Switzerland,CHF,,185.47,186.20,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Australia,AUD,,108.93,109.36,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Canada,CAD,,109.48,109.91,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Singapore,SGD,,120.06,120.53,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Japan,JPY,,9.84,9.88,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,China,CNY,,22.84,22.93,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Saudi Arabia,SAR,,40.78,40.94,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Other / verify,QAR,,42.03,42.19,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Thailand,THB,,4.59,4.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,United Arab Emirates,AED,,41.71,41.88,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Malaysia,MYR,,37.37,37.52,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,South Korea,KRW,,11.05,11.09,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Other / verify,SEK,,15.59,15.66,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Other / verify,DKK,,23.52,23.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Hong Kong,HKD,,19.53,19.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Other / verify,KWD,,498.45,500.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Other / verify,BHD,,406.38,407.97,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-18,Other / verify,OMR,,397.92,399.48,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,United States,USD,,153.10,153.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Euro area,EUR,,175.83,176.52,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,United Kingdom,GBP,,204.69,205.50,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Switzerland,CHF,,185.65,186.38,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Australia,AUD,,109.08,109.51,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Canada,CAD,,109.37,109.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Singapore,SGD,,119.85,120.32,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Japan,JPY,,9.70,9.73,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,China,CNY,,22.86,22.95,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Saudi Arabia,SAR,,40.76,40.92,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Other / verify,QAR,,41.99,42.16,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Thailand,THB,,4.59,4.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,United Arab Emirates,AED,,41.69,41.85,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Malaysia,MYR,,37.52,37.67,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,South Korea,KRW,,11.04,11.09,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Other / verify,SEK,,15.59,15.65,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Other / verify,DKK,,23.52,23.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Hong Kong,HKD,,19.51,19.59,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Other / verify,KWD,,498.13,500.08,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Other / verify,BHD,,406.11,407.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-19,Other / verify,OMR,,397.66,399.22,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,United States,USD,,153.10,153.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Euro area,EUR,,175.83,176.52,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,United Kingdom,GBP,,204.69,205.50,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Switzerland,CHF,,185.65,186.38,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Australia,AUD,,109.08,109.51,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Canada,CAD,,109.37,109.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Singapore,SGD,,119.85,120.32,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Japan,JPY,,9.70,9.73,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,China,CNY,,22.86,22.95,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Saudi Arabia,SAR,,40.76,40.92,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Other / verify,QAR,,41.99,42.16,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Thailand,THB,,4.59,4.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,United Arab Emirates,AED,,41.69,41.85,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Malaysia,MYR,,37.52,37.67,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,South Korea,KRW,,11.04,11.09,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Other / verify,SEK,,15.59,15.65,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Other / verify,DKK,,23.52,23.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Hong Kong,HKD,,19.51,19.59,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Other / verify,KWD,,498.13,500.08,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Other / verify,BHD,,406.11,407.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-20,Other / verify,OMR,,397.66,399.22,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,United States,USD,,153.10,153.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Euro area,EUR,,175.82,176.51,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,United Kingdom,GBP,,205.08,205.88,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Switzerland,CHF,,186.22,186.95,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Australia,AUD,,108.99,109.42,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Canada,CAD,,109.44,109.87,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Singapore,SGD,,119.97,120.45,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Japan,JPY,,9.76,9.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,China,CNY,,22.86,22.95,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Saudi Arabia,SAR,,40.76,40.92,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Other / verify,QAR,,42.01,42.17,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Thailand,THB,,4.59,4.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,United Arab Emirates,AED,,41.68,41.85,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Malaysia,MYR,,37.52,37.67,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,South Korea,KRW,,11.04,11.09,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Other / verify,SEK,,15.57,15.64,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Other / verify,DKK,,23.52,23.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Hong Kong,HKD,,19.52,19.59,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Other / verify,KWD,,498.13,500.08,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Other / verify,BHD,,406.10,407.69,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-21,Other / verify,OMR,,397.66,399.22,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,United States,USD,,153.01,153.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Euro area,EUR,,175.66,176.34,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,United Kingdom,GBP,,204.78,205.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Switzerland,CHF,,185.97,186.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Australia,AUD,,109.07,109.50,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Canada,CAD,,109.13,109.55,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Singapore,SGD,,119.96,120.43,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Japan,JPY,,9.73,9.77,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,China,CNY,,22.85,22.94,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Saudi Arabia,SAR,,40.73,40.89,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Other / verify,QAR,,41.98,42.14,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Thailand,THB,,4.60,4.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,United Arab Emirates,AED,,41.66,41.82,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Malaysia,MYR,,37.53,37.67,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,South Korea,KRW,,11.15,11.19,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Other / verify,SEK,,15.57,15.63,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Other / verify,DKK,,23.50,23.59,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Hong Kong,HKD,,19.50,19.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Other / verify,KWD,,497.84,499.79,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Other / verify,BHD,,405.86,407.45,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-22,Other / verify,OMR,,397.42,398.98,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,United States,USD,,152.65,153.25,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Euro area,EUR,,175.08,175.77,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,United Kingdom,GBP,,204.15,204.95,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Switzerland,CHF,,186.47,187.20,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Australia,AUD,,108.67,109.10,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Canada,CAD,,108.80,109.23,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Singapore,SGD,,119.79,120.26,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Japan,JPY,,9.73,9.77,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,China,CNY,,22.79,22.88,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Saudi Arabia,SAR,,40.65,40.81,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Other / verify,QAR,,41.88,42.04,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Thailand,THB,,4.61,4.63,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,United Arab Emirates,AED,,41.56,41.72,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Malaysia,MYR,,37.45,37.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,South Korea,KRW,,11.27,11.31,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Other / verify,SEK,,15.57,15.63,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Other / verify,DKK,,23.42,23.51,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Hong Kong,HKD,,19.46,19.54,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Other / verify,KWD,,496.67,498.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Other / verify,BHD,,404.93,406.53,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-23,Other / verify,OMR,,396.49,398.05,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,United States,USD,,152.89,153.49,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Euro area,EUR,,174.47,175.16,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,United Kingdom,GBP,,203.13,203.93,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Switzerland,CHF,,185.79,186.52,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Australia,AUD,,108.28,108.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Canada,CAD,,108.56,108.98,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Singapore,SGD,,119.65,120.12,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Japan,JPY,,9.69,9.73,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,China,CNY,,22.80,22.89,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Saudi Arabia,SAR,,40.71,40.87,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Other / verify,QAR,,41.95,42.11,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Thailand,THB,,4.60,4.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,United Arab Emirates,AED,,41.63,41.79,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Malaysia,MYR,,37.47,37.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,South Korea,KRW,,11.21,11.25,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Other / verify,SEK,,15.49,15.55,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Other / verify,DKK,,23.34,23.43,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Hong Kong,HKD,,19.49,19.57,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Other / verify,KWD,,497.20,499.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Other / verify,BHD,,405.53,407.12,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-24,Other / verify,OMR,,397.11,398.67,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,United States,USD,,153.24,153.84,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Euro area,EUR,,174.29,174.97,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,United Kingdom,GBP,,202.69,203.48,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Switzerland,CHF,,185.25,185.98,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Australia,AUD,,107.73,108.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Canada,CAD,,108.65,109.07,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Singapore,SGD,,119.73,120.20,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Japan,JPY,,9.65,9.69,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,China,CNY,,22.83,22.92,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Saudi Arabia,SAR,,40.81,40.97,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Other / verify,QAR,,42.04,42.21,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Thailand,THB,,4.58,4.59,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,United Arab Emirates,AED,,41.72,41.89,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Malaysia,MYR,,37.49,37.64,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,South Korea,KRW,,11.18,11.23,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Other / verify,SEK,,15.50,15.56,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Other / verify,DKK,,23.31,23.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Hong Kong,HKD,,19.54,19.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Other / verify,KWD,,498.02,499.97,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Other / verify,BHD,,406.52,408.11,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-25,Other / verify,OMR,,398.02,399.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,United States,USD,,153.01,153.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Euro area,EUR,,174.32,175.00,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,United Kingdom,GBP,,202.64,203.43,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Switzerland,CHF,,184.46,185.18,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Australia,AUD,,107.55,107.97,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Canada,CAD,,108.18,108.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Singapore,SGD,,119.73,120.20,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Japan,JPY,,9.68,9.72,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,China,CNY,,22.79,22.88,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Saudi Arabia,SAR,,40.75,40.91,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Other / verify,QAR,,42.00,42.16,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Thailand,THB,,4.59,4.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,United Arab Emirates,AED,,41.66,41.82,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Malaysia,MYR,,37.56,37.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,South Korea,KRW,,11.29,11.33,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Other / verify,SEK,,15.44,15.51,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Other / verify,DKK,,23.32,23.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Hong Kong,HKD,,19.51,19.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Other / verify,KWD,,497.27,499.22,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Other / verify,BHD,,405.89,407.48,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-26,Other / verify,OMR,,397.42,398.98,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,United States,USD,,153.01,153.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Euro area,EUR,,174.32,175.00,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,United Kingdom,GBP,,202.64,203.43,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Switzerland,CHF,,184.46,185.18,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Australia,AUD,,107.55,107.97,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Canada,CAD,,108.18,108.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Singapore,SGD,,119.73,120.20,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Japan,JPY,,9.68,9.72,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,China,CNY,,22.79,22.88,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Saudi Arabia,SAR,,40.75,40.91,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Other / verify,QAR,,42.00,42.16,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Thailand,THB,,4.59,4.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,United Arab Emirates,AED,,41.66,41.82,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Malaysia,MYR,,37.56,37.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,South Korea,KRW,,11.29,11.33,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Other / verify,SEK,,15.44,15.51,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Other / verify,DKK,,23.32,23.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Hong Kong,HKD,,19.51,19.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Other / verify,KWD,,497.27,499.22,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Other / verify,BHD,,405.89,407.48,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-27,Other / verify,OMR,,397.42,398.98,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,United States,USD,,153.01,153.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Euro area,EUR,,174.30,174.98,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,United Kingdom,GBP,,202.78,203.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Switzerland,CHF,,184.68,185.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Australia,AUD,,107.47,107.89,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Canada,CAD,,108.18,108.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Singapore,SGD,,119.76,120.23,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Japan,JPY,,9.73,9.77,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,China,CNY,,22.79,22.88,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Saudi Arabia,SAR,,40.75,40.91,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Other / verify,QAR,,42.01,42.18,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Thailand,THB,,4.58,4.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,United Arab Emirates,AED,,41.66,41.82,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Malaysia,MYR,,37.56,37.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,South Korea,KRW,,11.30,11.34,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Other / verify,SEK,,15.43,15.49,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Other / verify,DKK,,23.31,23.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Hong Kong,HKD,,19.51,19.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Other / verify,KWD,,497.27,499.22,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Other / verify,BHD,,405.89,407.48,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-28,Other / verify,OMR,,397.42,398.98,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,United States,USD,,153.28,153.88,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Euro area,EUR,,174.32,175.00,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,United Kingdom,GBP,,203.16,203.96,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Switzerland,CHF,,184.32,185.04,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Australia,AUD,,107.50,107.92,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Canada,CAD,,108.23,108.65,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Singapore,SGD,,119.87,120.34,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Japan,JPY,,9.76,9.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,China,CNY,,22.84,22.93,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Saudi Arabia,SAR,,40.83,40.99,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Other / verify,QAR,,42.05,42.22,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Thailand,THB,,4.56,4.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,United Arab Emirates,AED,,41.73,41.89,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Malaysia,MYR,,37.53,37.67,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,South Korea,KRW,,11.27,11.32,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Other / verify,SEK,,15.38,15.44,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Other / verify,DKK,,23.32,23.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Hong Kong,HKD,,19.54,19.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Other / verify,KWD,,498.15,500.10,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Other / verify,BHD,,406.61,408.20,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-29,Other / verify,OMR,,398.12,399.68,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,United States,USD,,153.28,153.88,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Euro area,EUR,,173.76,174.44,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,United Kingdom,GBP,,202.71,203.50,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Switzerland,CHF,,183.65,184.36,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Australia,AUD,,107.04,107.45,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Canada,CAD,,107.94,108.37,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Singapore,SGD,,119.82,120.29,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Japan,JPY,,9.72,9.76,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,China,CNY,,22.86,22.95,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Saudi Arabia,SAR,,40.82,40.98,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Other / verify,QAR,,42.05,42.22,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Thailand,THB,,4.56,4.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,United Arab Emirates,AED,,41.73,41.90,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Malaysia,MYR,,37.56,37.71,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,South Korea,KRW,,11.29,11.34,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Other / verify,SEK,,15.32,15.38,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Other / verify,DKK,,23.24,23.34,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Hong Kong,HKD,,19.54,19.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Other / verify,KWD,,498.15,500.10,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Other / verify,BHD,,406.58,408.17,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-09-30,Other / verify,OMR,,398.12,399.68,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,United States,USD,,153.04,153.64,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Euro area,EUR,,173.88,174.56,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,United Kingdom,GBP,,203.28,204.07,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Switzerland,CHF,,183.63,184.35,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Australia,AUD,,106.70,107.12,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Canada,CAD,,107.93,108.35,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Singapore,SGD,,119.88,120.35,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Japan,JPY,,9.75,9.79,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,China,CNY,,22.83,22.92,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Saudi Arabia,SAR,,40.76,40.92,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Other / verify,QAR,,41.99,42.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Thailand,THB,,4.56,4.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,United Arab Emirates,AED,,41.67,41.83,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Malaysia,MYR,,37.53,37.68,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,South Korea,KRW,,11.30,11.34,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Other / verify,SEK,,15.34,15.40,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Other / verify,DKK,,23.26,23.35,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Hong Kong,HKD,,19.50,19.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Other / verify,KWD,,497.13,499.07,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Other / verify,BHD,,405.94,407.53,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-01,Other / verify,OMR,,397.51,399.07,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,United States,USD,,153.81,154.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Euro area,EUR,,173.31,173.99,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,United Kingdom,GBP,,202.94,203.74,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Switzerland,CHF,,183.76,184.48,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Australia,AUD,,106.61,107.03,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Canada,CAD,,107.88,108.30,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Singapore,SGD,,120.01,120.48,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Japan,JPY,,9.71,9.75,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,China,CNY,,22.94,23.03,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Saudi Arabia,SAR,,40.96,41.12,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Other / verify,QAR,,42.20,42.36,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Thailand,THB,,4.56,4.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,United Arab Emirates,AED,,41.88,42.04,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Malaysia,MYR,,37.66,37.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,South Korea,KRW,,11.26,11.30,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Other / verify,SEK,,15.29,15.35,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Other / verify,DKK,,23.18,23.27,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Hong Kong,HKD,,19.60,19.68,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Other / verify,KWD,,499.46,501.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Other / verify,BHD,,407.97,409.56,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-02,Other / verify,OMR,,399.51,401.07,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,United States,USD,,153.81,154.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Euro area,EUR,,173.01,173.69,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,United Kingdom,GBP,,203.18,203.98,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Switzerland,CHF,,185.69,186.42,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Australia,AUD,,106.72,107.14,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Canada,CAD,,108.04,108.46,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Singapore,SGD,,120.23,120.69,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Japan,JPY,,9.76,9.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,China,CNY,,22.94,23.03,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Saudi Arabia,SAR,,40.97,41.13,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Other / verify,QAR,,42.20,42.36,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Thailand,THB,,4.58,4.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,United Arab Emirates,AED,,41.88,42.04,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Malaysia,MYR,,37.66,37.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,South Korea,KRW,,11.40,11.45,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Other / verify,SEK,,15.31,15.37,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Other / verify,DKK,,23.14,23.24,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Hong Kong,HKD,,19.60,19.68,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Other / verify,KWD,,499.46,501.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Other / verify,BHD,,407.96,409.55,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-03,Other / verify,OMR,,399.51,401.07,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,United States,USD,,153.81,154.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Euro area,EUR,,173.01,173.69,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,United Kingdom,GBP,,203.18,203.98,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Switzerland,CHF,,185.69,186.42,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Australia,AUD,,106.72,107.14,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Canada,CAD,,108.04,108.46,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Singapore,SGD,,120.23,120.69,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Japan,JPY,,9.76,9.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,China,CNY,,22.94,23.03,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Saudi Arabia,SAR,,40.97,41.13,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Other / verify,QAR,,42.20,42.36,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Thailand,THB,,4.58,4.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,United Arab Emirates,AED,,41.88,42.04,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Malaysia,MYR,,37.66,37.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,South Korea,KRW,,11.40,11.45,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Other / verify,SEK,,15.31,15.37,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Other / verify,DKK,,23.14,23.24,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Hong Kong,HKD,,19.60,19.68,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Other / verify,KWD,,499.46,501.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Other / verify,BHD,,407.96,409.55,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-04,Other / verify,OMR,,399.51,401.07,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,United States,USD,,153.81,154.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Euro area,EUR,,173.09,173.77,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,United Kingdom,GBP,,203.68,204.48,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Switzerland,CHF,,185.59,186.32,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Australia,AUD,,106.97,107.39,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Canada,CAD,,107.93,108.35,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Singapore,SGD,,120.22,120.69,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Japan,JPY,,9.74,9.78,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,China,CNY,,22.94,23.03,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Saudi Arabia,SAR,,40.97,41.13,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Other / verify,QAR,,42.22,42.38,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Thailand,THB,,4.58,4.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,United Arab Emirates,AED,,41.88,42.04,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Malaysia,MYR,,37.66,37.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,South Korea,KRW,,11.45,11.50,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Other / verify,SEK,,15.31,15.37,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Other / verify,DKK,,23.16,23.25,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Hong Kong,HKD,,19.60,19.68,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Other / verify,KWD,,499.46,501.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Other / verify,BHD,,407.96,409.55,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-05,Other / verify,OMR,,399.51,401.07,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,United States,USD,,153.78,154.38,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Euro area,EUR,,172.32,172.99,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,United Kingdom,GBP,,203.32,204.11,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Switzerland,CHF,,185.50,186.22,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Australia,AUD,,107.03,107.45,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Canada,CAD,,107.95,108.37,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Singapore,SGD,,120.12,120.59,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Japan,JPY,,9.74,9.77,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,China,CNY,,22.94,23.03,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Saudi Arabia,SAR,,40.96,41.12,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Other / verify,QAR,,42.19,42.35,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Thailand,THB,,4.56,4.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,United Arab Emirates,AED,,41.87,42.03,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Malaysia,MYR,,37.63,37.77,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,South Korea,KRW,,11.44,11.48,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Other / verify,SEK,,15.33,15.39,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Other / verify,DKK,,23.06,23.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Hong Kong,HKD,,19.60,19.67,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Other / verify,KWD,,498.80,500.75,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Other / verify,BHD,,407.88,409.47,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-06,Other / verify,OMR,,399.43,400.99,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,United States,USD,,153.98,154.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Euro area,EUR,,173.17,173.84,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,United Kingdom,GBP,,203.95,204.75,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Switzerland,CHF,,185.24,185.96,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Australia,AUD,,107.32,107.74,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Canada,CAD,,107.91,108.33,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Singapore,SGD,,120.44,120.91,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Japan,JPY,,9.73,9.77,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,China,CNY,,22.97,23.06,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Saudi Arabia,SAR,,41.02,41.18,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Other / verify,QAR,,42.24,42.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Thailand,THB,,4.58,4.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,United Arab Emirates,AED,,41.93,42.09,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Malaysia,MYR,,37.69,37.84,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,South Korea,KRW,,11.50,11.55,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Other / verify,SEK,,15.39,15.45,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Other / verify,DKK,,23.17,23.26,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Hong Kong,HKD,,19.62,19.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Other / verify,KWD,,499.69,501.64,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Other / verify,BHD,,408.41,410.00,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-07,Other / verify,OMR,,399.95,401.51,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,United States,USD,,154.55,155.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Euro area,EUR,,173.02,173.69,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,United Kingdom,GBP,,204.42,205.21,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Switzerland,CHF,,185.50,186.22,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Australia,AUD,,107.68,108.10,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Canada,CAD,,108.67,109.09,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Singapore,SGD,,120.76,121.23,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Japan,JPY,,9.76,9.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,China,CNY,,23.05,23.14,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Saudi Arabia,SAR,,41.17,41.33,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Other / verify,QAR,,42.40,42.56,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Thailand,THB,,4.59,4.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,United Arab Emirates,AED,,42.08,42.24,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Malaysia,MYR,,37.81,37.95,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,South Korea,KRW,,11.55,11.60,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Other / verify,SEK,,15.40,15.46,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Other / verify,DKK,,23.15,23.24,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Hong Kong,HKD,,19.69,19.77,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Other / verify,KWD,,501.54,503.49,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Other / verify,BHD,,409.92,411.51,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-08,Other / verify,OMR,,401.43,402.99,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,United States,USD,,154.56,155.16,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Euro area,EUR,,172.83,173.50,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,United Kingdom,GBP,,203.87,204.66,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Switzerland,CHF,,185.28,186.00,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Australia,AUD,,107.44,107.86,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Canada,CAD,,108.36,108.78,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Singapore,SGD,,120.55,121.02,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Japan,JPY,,9.77,9.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,China,CNY,,23.06,23.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Saudi Arabia,SAR,,41.17,41.33,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Other / verify,QAR,,42.40,42.57,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Thailand,THB,,4.59,4.61,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,United Arab Emirates,AED,,42.08,42.25,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Malaysia,MYR,,37.78,37.92,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,South Korea,KRW,,11.50,11.54,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Other / verify,SEK,,15.43,15.49,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Other / verify,DKK,,23.12,23.21,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Hong Kong,HKD,,19.70,19.77,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Other / verify,KWD,,501.57,503.52,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Other / verify,BHD,,409.81,411.40,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-09,Other / verify,OMR,,401.46,403.02,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,United States,USD,,154.48,155.08,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Euro area,EUR,,173.32,173.99,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,United Kingdom,GBP,,204.55,205.35,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Switzerland,CHF,,185.92,186.64,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Australia,AUD,,107.83,108.25,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Canada,CAD,,108.57,108.99,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Singapore,SGD,,120.68,121.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Japan,JPY,,9.76,9.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,China,CNY,,23.08,23.17,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Saudi Arabia,SAR,,41.15,41.31,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Other / verify,QAR,,42.42,42.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Thailand,THB,,4.61,4.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,United Arab Emirates,AED,,42.06,42.23,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Malaysia,MYR,,37.82,37.96,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,South Korea,KRW,,11.52,11.56,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Other / verify,SEK,,15.51,15.57,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Other / verify,DKK,,23.19,23.28,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Hong Kong,HKD,,19.69,19.76,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Other / verify,KWD,,501.31,503.26,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Other / verify,BHD,,409.11,410.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-10,Other / verify,OMR,,401.24,402.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,United States,USD,,154.48,155.08,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Euro area,EUR,,173.32,173.99,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,United Kingdom,GBP,,204.55,205.35,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Switzerland,CHF,,185.92,186.64,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Australia,AUD,,107.83,108.25,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Canada,CAD,,108.57,108.99,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Singapore,SGD,,120.68,121.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Japan,JPY,,9.76,9.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,China,CNY,,23.08,23.17,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Saudi Arabia,SAR,,41.15,41.31,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Other / verify,QAR,,42.42,42.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Thailand,THB,,4.61,4.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,United Arab Emirates,AED,,42.06,42.23,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Malaysia,MYR,,37.82,37.96,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,South Korea,KRW,,11.52,11.56,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Other / verify,SEK,,15.51,15.57,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Other / verify,DKK,,23.19,23.28,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Hong Kong,HKD,,19.69,19.76,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Other / verify,KWD,,501.31,503.26,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Other / verify,BHD,,409.11,410.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-11,Other / verify,OMR,,401.24,402.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,United States,USD,,154.48,155.08,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Euro area,EUR,,173.05,173.72,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,United Kingdom,GBP,,204.42,205.21,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Switzerland,CHF,,186.06,186.79,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Australia,AUD,,107.90,108.32,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Canada,CAD,,108.35,108.77,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Singapore,SGD,,120.62,121.09,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Japan,JPY,,9.76,9.79,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,China,CNY,,23.08,23.17,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Saudi Arabia,SAR,,41.12,41.28,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Other / verify,QAR,,42.42,42.58,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Thailand,THB,,4.61,4.63,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,United Arab Emirates,AED,,42.06,42.22,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Malaysia,MYR,,37.82,37.96,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,South Korea,KRW,,11.52,11.57,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Other / verify,SEK,,15.45,15.51,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Other / verify,DKK,,23.15,23.24,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Hong Kong,HKD,,19.68,19.76,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Other / verify,KWD,,501.31,503.26,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Other / verify,BHD,,409.06,410.64,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-12,Other / verify,OMR,,401.24,402.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,United States,USD,,152.94,153.54,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Euro area,EUR,,171.03,171.70,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,United Kingdom,GBP,,202.42,203.22,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Switzerland,CHF,,183.59,184.31,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Australia,AUD,,106.61,107.03,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Canada,CAD,,107.22,107.65,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Singapore,SGD,,119.41,119.88,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Japan,JPY,,9.64,9.68,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,China,CNY,,22.85,22.94,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Saudi Arabia,SAR,,40.72,40.88,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Other / verify,QAR,,41.96,42.12,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Thailand,THB,,4.55,4.57,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,United Arab Emirates,AED,,41.64,41.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Malaysia,MYR,,37.38,37.53,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,South Korea,KRW,,11.48,11.52,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Other / verify,SEK,,15.26,15.32,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Other / verify,DKK,,22.88,22.97,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Hong Kong,HKD,,19.49,19.57,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Other / verify,KWD,,496.32,498.26,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Other / verify,BHD,,404.82,406.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-13,Other / verify,OMR,,397.22,398.78,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,United States,USD,,152.16,152.76,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Euro area,EUR,,170.13,170.80,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,United Kingdom,GBP,,201.45,202.25,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Switzerland,CHF,,182.73,183.45,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Australia,AUD,,106.10,106.52,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Canada,CAD,,106.72,107.14,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Singapore,SGD,,118.88,119.34,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Japan,JPY,,9.63,9.66,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,China,CNY,,22.73,22.82,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Saudi Arabia,SAR,,40.51,40.67,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Other / verify,QAR,,41.74,41.91,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Thailand,THB,,4.53,4.55,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,United Arab Emirates,AED,,41.43,41.59,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Malaysia,MYR,,37.24,37.39,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,South Korea,KRW,,11.36,11.41,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Other / verify,SEK,,15.22,15.28,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Other / verify,DKK,,22.76,22.85,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Hong Kong,HKD,,19.39,19.46,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Other / verify,KWD,,493.55,495.49,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Other / verify,BHD,,402.81,404.39,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-14,Other / verify,OMR,,395.22,396.77,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,India,INR,,160.00,160.15,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,United States,USD,,151.95,152.55,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Euro area,EUR,,170.07,170.74,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,United Kingdom,GBP,,201.57,202.37,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Switzerland,CHF,,182.30,183.02,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Australia,AUD,,106.52,106.95,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Canada,CAD,,106.91,107.33,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Singapore,SGD,,118.53,119.00,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Japan,JPY,,9.59,9.63,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,China,CNY,,22.70,22.79,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Saudi Arabia,SAR,,40.46,40.62,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Other / verify,QAR,,41.68,41.85,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Thailand,THB,,4.53,4.54,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,United Arab Emirates,AED,,41.37,41.54,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Malaysia,MYR,,37.22,37.37,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,South Korea,KRW,,11.38,11.42,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Other / verify,SEK,,15.25,15.31,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Other / verify,DKK,,22.75,22.84,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Hong Kong,HKD,,19.36,19.44,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Other / verify,KWD,,493.10,495.05,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Other / verify,BHD,,402.20,403.79,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
+2026-10-15,Other / verify,OMR,,394.67,396.23,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T09:40:20.469214+00:00
