@@ -1,0 +1,3 @@
+country,institution_or_scope,course_or_level,academic_year,annual_tuition,currency,fee_basis,source_url,retrieved_on,notes
+Australia,RMIT University,Bachelor of Engineering (Electrical Engineering) (Honours),2026,47040,AUD,Indicative annual international tuition,https://www.rmit.edu.au/study-with-us/international-students/study/cost-of-studying-in-australia,2026-10-15,Confirm course-specific fees before using in a student estimate.
+Canada,Canada-wide average,International undergraduate university students,2026,41746,CAD,"National average, not a specific university quote",https://www.educanada.ca/programs-programmes/education_cost-cout_education.aspx,2026-10-15,Use only for broad comparison; actual tuition varies by institution and program.
