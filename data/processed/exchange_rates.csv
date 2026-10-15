@@ -1,0 +1,16 @@
+date,currency,unit,buy_npr,sell_npr,source_url,retrieved_at_utc
+2026-10-01,AUD,1,106.70,107.12,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808508+00:00
+2026-10-02,AUD,1,106.61,107.03,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808522+00:00
+2026-10-03,AUD,1,106.72,107.14,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808527+00:00
+2026-10-04,AUD,1,106.72,107.14,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808530+00:00
+2026-10-05,AUD,1,106.97,107.39,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808535+00:00
+2026-10-06,AUD,1,107.03,107.45,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808538+00:00
+2026-10-07,AUD,1,107.32,107.74,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808541+00:00
+2026-10-08,AUD,1,107.68,108.10,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808544+00:00
+2026-10-09,AUD,1,107.44,107.86,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808548+00:00
+2026-10-10,AUD,1,107.83,108.25,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808551+00:00
+2026-10-11,AUD,1,107.83,108.25,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808554+00:00
+2026-10-12,AUD,1,107.90,108.32,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808557+00:00
+2026-10-13,AUD,1,106.61,107.03,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808560+00:00
+2026-10-14,AUD,1,106.10,106.52,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808563+00:00
+2026-10-15,AUD,1,106.52,106.95,https://www.nrb.org.np/api/forex/v1/rates,2026-10-15T05:01:07.808566+00:00
