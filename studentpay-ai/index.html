@@ -1,0 +1,445 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <title>StudentPay AI</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="wrap">
+      <header>
+        <h1>🎓 StudentPay AI</h1>
+        <div id="who"></div>
+      </header>
+      <p class="note">
+        Educational prototype · no real payments · rates &amp; fees are manual
+        demo values · not financial advice. Data is saved only in this browser.
+      </p>
+
+      <div id="auth">
+        <div class="grid">
+          <div class="card">
+            <h2>Log in</h2>
+            <label>Username</label><input id="lu" autocomplete="username" />
+            <label>Password</label
+            ><input id="lp" type="password" autocomplete="current-password" />
+            <p><button onclick="login()">Log in</button></p>
+            <div id="lm"></div>
+          </div>
+          <div class="card">
+            <h2>Create account</h2>
+            <label>Username (3–30 letters/numbers/_)</label><input id="ru" />
+            <label>Email</label><input id="re" type="email" />
+            <label>Password (8+ chars, letter + number)</label
+            ><input id="rp" type="password" autocomplete="new-password" />
+            <p><button onclick="register()">Create account</button></p>
+            <div id="rm"></div>
+          </div>
+        </div>
+      </div>
+
+      <div id="app" class="hide">
+        <div class="tabs" id="tabs"></div>
+
+        <section id="t-cmp">
+          <div class="card">
+            <h2>Compare transfer options</h2>
+            <div class="grid">
+              <div>
+                <label>Amount to send</label
+                ><input
+                  id="amt"
+                  type="number"
+                  value="1000"
+                  min="0"
+                  step="any"
+                />
+              </div>
+              <div>
+                <label>Sending currency</label
+                ><input id="sc" value="USD" maxlength="5" />
+              </div>
+              <div>
+                <label>Recipient currency</label
+                ><input id="rc" value="NPR" maxlength="5" />
+              </div>
+              <div>
+                <label>Mid-market rate (for hidden-cost check)</label
+                ><input id="mid" type="number" value="135" step="any" min="0" />
+              </div>
+            </div>
+            <div class="grid" id="opts"></div>
+            <p>
+              <button class="sec" onclick="addOpt()">+ Add option</button>
+              <button onclick="compare()">Compare</button>
+            </p>
+            <div id="cm"></div>
+          </div>
+          <div id="res"></div>
+        </section>
+
+        <section id="t-aff" class="hide">
+          <div class="card">
+            <h2>Affordability calculator</h2>
+            <div class="grid">
+              <div>
+                <label>Monthly income / available funds</label
+                ><input
+                  id="inc"
+                  type="number"
+                  value="1500"
+                  min="0"
+                  step="any"
+                />
+              </div>
+              <div>
+                <label>Rent</label
+                ><input
+                  class="ex"
+                  data-k="Rent"
+                  type="number"
+                  value="600"
+                  min="0"
+                  step="any"
+                />
+              </div>
+              <div>
+                <label>Food</label
+                ><input
+                  class="ex"
+                  data-k="Food"
+                  type="number"
+                  value="300"
+                  min="0"
+                  step="any"
+                />
+              </div>
+              <div>
+                <label>Transportation</label
+                ><input
+                  class="ex"
+                  data-k="Transportation"
+                  type="number"
+                  value="80"
+                  min="0"
+                  step="any"
+                />
+              </div>
+              <div>
+                <label>Tuition</label
+                ><input
+                  class="ex"
+                  data-k="Tuition"
+                  type="number"
+                  value="400"
+                  min="0"
+                  step="any"
+                />
+              </div>
+              <div>
+                <label>Other</label
+                ><input
+                  class="ex"
+                  data-k="Other"
+                  type="number"
+                  value="100"
+                  min="0"
+                  step="any"
+                />
+              </div>
+            </div>
+            <p><button onclick="afford()">Calculate</button></p>
+            <div id="am"></div>
+          </div>
+        </section>
+
+        <section id="t-survive" class="hide">
+          <div class="card">
+            <h2>🧭 Money Survival Planner</h2>
+            <p class="section-intro">
+              Estimate whether your available money can cover essentials until
+              your next income. Use your own figures; this is a forecast, not a
+              guarantee.
+            </p>
+            <div class="grid">
+              <div>
+                <label>Money available now</label
+                ><input
+                  id="sp-balance"
+                  type="number"
+                  min="0"
+                  step="any"
+                  placeholder="e.g. 850"
+                />
+              </div>
+              <div>
+                <label>Days until next income</label
+                ><input
+                  id="sp-days"
+                  type="number"
+                  min="1"
+                  max="365"
+                  step="1"
+                  value="14"
+                />
+              </div>
+              <div>
+                <label>Expected income before then</label
+                ><input
+                  id="sp-income"
+                  type="number"
+                  min="0"
+                  step="any"
+                  value="0"
+                />
+              </div>
+              <div>
+                <label>Essential spending per day</label
+                ><input
+                  id="sp-daily"
+                  type="number"
+                  min="0"
+                  step="any"
+                  placeholder="food, travel, basics"
+                />
+              </div>
+              <div>
+                <label>Bills due before next income</label
+                ><input
+                  id="sp-bills"
+                  type="number"
+                  min="0"
+                  step="any"
+                  value="0"
+                />
+              </div>
+              <div>
+                <label>Currency code</label
+                ><input id="sp-currency" maxlength="5" value="USD" />
+              </div>
+            </div>
+            <p>
+              <button onclick="planSurvival()">Build my survival plan</button>
+              <button class="sec" onclick="loadSurvivalFromBudget()">
+                Use saved budget
+              </button>
+            </p>
+            <div id="sp-result"></div>
+          </div>
+        </section>
+        <section id="t-track" class="hide">
+          <div class="card">
+            <h2>🧾 Income &amp; expense tracker</h2>
+            <p class="section-intro">
+              Record money in and out to build a clearer picture of your real
+              spending. Entries are stored in this browser.
+            </p>
+            <div class="grid">
+              <div>
+                <label>Description</label
+                ><input
+                  id="tx-desc"
+                  maxlength="80"
+                  placeholder="e.g. Grocery shopping"
+                />
+              </div>
+              <div>
+                <label>Type</label
+                ><select id="tx-type">
+                  <option value="expense">Expense</option>
+                  <option value="income">Income</option>
+                </select>
+              </div>
+              <div>
+                <label>Category</label
+                ><select id="tx-cat">
+                  <option>Food</option>
+                  <option>Rent</option>
+                  <option>Tuition</option>
+                  <option>Transport</option>
+                  <option>Utilities</option>
+                  <option>Health</option>
+                  <option>Shopping</option>
+                  <option>Salary</option>
+                  <option>Family support</option>
+                  <option>Other</option>
+                </select>
+              </div>
+              <div>
+                <label>Amount</label
+                ><input
+                  id="tx-amount"
+                  type="number"
+                  min="0.01"
+                  step="any"
+                  placeholder="0.00"
+                />
+              </div>
+              <div><label>Date</label><input id="tx-date" type="date" /></div>
+              <div>
+                <label>Currency code</label
+                ><input id="tx-currency" maxlength="5" value="USD" />
+              </div>
+            </div>
+            <p>
+              <button onclick="addTransaction()">Add transaction</button>
+              <button class="sec" onclick="exportTransactions()">
+                Export CSV
+              </button>
+            </p>
+            <div id="tx-msg"></div>
+            <div id="tx-summary"></div>
+            <div class="scroll">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Date</th>
+                    <th>Description</th>
+                    <th>Type</th>
+                    <th>Category</th>
+                    <th>Amount</th>
+                    <th></th>
+                  </tr>
+                </thead>
+                <tbody id="tx-list"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+        <section id="t-bills" class="hide">
+          <div class="card">
+            <h2>📅 Bill &amp; tuition guardian</h2>
+            <p class="section-intro">
+              Add upcoming bills to see what is due soon. Reminders appear
+              inside this prototype when you open the page; it does not send
+              notifications.
+            </p>
+            <div class="grid">
+              <div>
+                <label>Bill name</label
+                ><input
+                  id="bill-name"
+                  maxlength="80"
+                  placeholder="e.g. Monthly rent"
+                />
+              </div>
+              <div>
+                <label>Amount</label
+                ><input id="bill-amount" type="number" min="0.01" step="any" />
+              </div>
+              <div>
+                <label>Due date</label><input id="bill-date" type="date" />
+              </div>
+              <div>
+                <label>Category</label
+                ><select id="bill-cat">
+                  <option>Rent</option>
+                  <option>Tuition</option>
+                  <option>Utilities</option>
+                  <option>Phone / internet</option>
+                  <option>Insurance</option>
+                  <option>Subscription</option>
+                  <option>Other</option>
+                </select>
+              </div>
+              <div>
+                <label>Currency code</label
+                ><input id="bill-currency" maxlength="5" value="USD" />
+              </div>
+            </div>
+            <p><button onclick="addBill()">Add bill</button></p>
+            <div id="bill-msg"></div>
+            <div id="bill-summary"></div>
+            <div id="bill-list"></div>
+          </div>
+        </section>
+        <section id="t-dash" class="hide"><div id="dash"></div></section>
+        <section id="t-goal" class="hide">
+          <div class="card">
+            <h2>Savings goals</h2>
+            <div class="grid">
+              <div>
+                <label>Goal name</label
+                ><input id="gn" placeholder="e.g. Next semester tuition" />
+              </div>
+              <div>
+                <label>Target amount</label
+                ><input id="gt" type="number" min="0" step="any" />
+              </div>
+              <div>
+                <label>Saved so far</label
+                ><input id="gs" type="number" min="0" step="any" value="0" />
+              </div>
+              <div>
+                <label>Months to reach it</label
+                ><input id="gm" type="number" min="1" step="1" value="6" />
+              </div>
+            </div>
+            <p><button onclick="addGoal()">Add goal</button></p>
+            <div id="gmsg"></div>
+          </div>
+          <div id="gl"></div>
+        </section>
+        <section id="t-ai" class="hide">
+          <div class="card">
+            <h2>🤖 AI finance assistant</h2>
+            <p class="note">
+              Ask about transfers, fees, your budget or savings. The assistant
+              sees the data you entered in this session. Educational estimates
+              only, not financial advice.
+            </p>
+            <div id="chips"></div>
+            <div id="chat"></div>
+            <div class="row" style="margin-top: 8px">
+              <input
+                id="q"
+                placeholder="Ask anything about your student finances…"
+                onkeydown="if (event.key === 'Enter') ask();"
+              /><button onclick="ask()">Send</button>
+            </div>
+          </div>
+        </section>
+        <section id="t-safe" class="hide">
+          <div class="card">
+            <h2>🛡️ Scam shield: is this transfer provider safe?</h2>
+            <p class="note">
+              Tick every statement that is true for the provider or offer you
+              are considering.
+            </p>
+            <div id="flags"></div>
+            <div id="risk"></div>
+          </div>
+        </section>
+        <section id="t-sav" class="hide">
+          <div class="card">
+            <h2>Saved comparisons</h2>
+            <div id="sv"></div>
+          </div>
+        </section>
+        <section id="t-log" class="hide">
+          <div class="card">
+            <h2>My activity log</h2>
+            <div class="scroll">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Time</th>
+                    <th>Event</th>
+                    <th>Detail</th>
+                  </tr>
+                </thead>
+                <tbody id="lg"></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
