@@ -4,7 +4,7 @@
 
 **Live demo:** [(https://fintechathon-studentpay-ai.vercel.app/)]
 **App source:** [./frontend/studentpay-ai/](./frontend/studentpay-ai/)
-**Team:** [your names + nationalities]
+**Team:** Amir Shrestha | Arati Khadka | Apikshya Chaulagain | Sheetal Khatri
 
 This repository contains the complete submission for the 2026 FinTechathon International Track. All application code, documentation, and evidence are under `frontend/studentpay-ai/`.
 
