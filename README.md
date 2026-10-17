@@ -2,7 +2,7 @@
 
 **Submission:** StudentPay AI — Topic C: Cross-border & Student Finance Assistant
 
-**Live demo:** [YOUR URL]
+**Live demo:** [(https://fintechathon-studentpay-ai.vercel.app/)]
 **App source:** [./frontend/studentpay-ai/](./frontend/studentpay-ai/)
 **Team:** [your names + nationalities]
 
