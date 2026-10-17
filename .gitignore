@@ -1,0 +1,13 @@
+# Build artifacts
+node_modules/
+.vercel/
+*.log
+.DS_Store
+
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Vercel local
+.vercel
